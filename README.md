@@ -17,6 +17,12 @@ Demystifying Azure PaaS and development options to help drive effective app mode
 Demo of runnning Mesosphere DC/OS on Azure
   Link to recording:
   Presenter: Anand Chandramohan
+  
+Docker + Microsoft – investing in the future of your applications
+    Link to recording
+    Presenter
+    Content created by: Anand Chandramohan
+ 
 
 # Blogs
 
