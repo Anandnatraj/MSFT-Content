@@ -21,7 +21,7 @@ Demo of runnning Mesosphere DC/OS on Azure
   Presenter: Anand Chandramohan
   Content created by: Anand Chandramohan
   
-Docker + Microsoft – investing in the future of your applications
+Docker + Microsoft – investing in the future of your applications: When you combine Docker’s cross platform support of Linux and Windows containers and Microsoft cloud technologies, you get a supercharged portfolio that can support virtually every enterprise workload. Whether you host your workloads in private datacenters, public cloud or hybrid we offer great end-to-end solutions or individual components from the developer’s keyboard to cloud. Azure Container Service is the simplest way to deploy your container orchestration environment such as Docker Swarm so your developers can deploy their apps more quickly. Windows Server Containers are “just” Docker containers. You use the same Docker tooling to build and run those containers as you do your Linux containers and with the tooling you choose - Eclipse, Visual Studio, Jenkins, Visual Studio Team Service. Microsoft + Docker empowers you, the developer to build cutting edge apps – quickly!
     Link to recording
     Presenter
     Content created by: Anand Chandramohan
